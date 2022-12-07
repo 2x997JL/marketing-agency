@@ -8,4 +8,4 @@ This marketing agency website was created with a starter code, and the task was 
 When using this site, you can click on the top marketing tabs, and it should direct you to the meaning of each one. Each tab is what the marketing agency offers to different clients.
 
 ## Mock-up
-[Horisean website](assets/images/01-html-css-git-homework-demo.png)
+![CHEESE!]![Horisean website](assets/images/01-html-css-git-homework-demo.png)
